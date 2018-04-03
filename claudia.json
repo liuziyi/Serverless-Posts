@@ -1,0 +1,11 @@
+{
+  "lambda": {
+    "role": "posts-serverless-executor",
+    "name": "posts-serverless",
+    "region": "us-east-1"
+  },
+  "api": {
+    "id": "2oamn8dxia",
+    "module": "index"
+  }
+}
